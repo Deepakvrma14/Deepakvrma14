@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">Experienced Full Stack Developer 🚀 | Mastering DSA 💡 | Crafting Code in India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [Full Stack freelance Projects](gumtea.in)
+- 🔭 I’m currently working on Full Stack freelance Projects like [this](https://www.gumtea.in)
 
 - 🌱 I’m currently learning **Data structures, Algorithms, React, Node, Express and exploring APIs like Postman API**
 
@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [deepakverma.netlify.app/](deepakverma.netlify.app/)
 
-- 📝 I regularly Practicing code on Leetcode at [https://leetcode.com/phoenixBlade/](https://leetcode.com/phoenixBlade/)
+- 📝 I regularly Practicing code on Leetcode at [phoenixBlade/](https://leetcode.com/phoenixBlade/)
 
 - 💬 Ask me about **Front end development and frameworks like React and Angular**
 
 - 📫 How to reach me **deepakverma1482003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10xbUMU8AYmlu_321nSNa3JEE9HhHVAcN/view?usp=sharing](https://drive.google.com/file/d/10xbUMU8AYmlu_321nSNa3JEE9HhHVAcN/view?usp=sharing)
+- 📄 Know about my experiences [CV Link](https://drive.google.com/file/d/10xbUMU8AYmlu_321nSNa3JEE9HhHVAcN/view?usp=sharing)
 
 - ⚡ Fun fact **I code with a side of Kurkure/Lays 🍪 – because every great algorithm deserves a flavorful twist! 🌶️👨‍💻**
 
