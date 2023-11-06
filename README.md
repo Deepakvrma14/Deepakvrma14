@@ -5,9 +5,9 @@
 
 - 🤝 I’m had for experience with **oper source contribution, hactober fest contributions, Freelancing website Designing and more**
 
-- 👨‍💻 All of my projects are available at{not maintained} [deepakverma.netlify.app/](deepakverma.netlify.app/)
+- 👨‍💻 All of my projects are available at{not maintained} [here](deepakverma.netlify.app/)
 
-- 📝 I regularly Practicing code on Leetcode at [phoenixBlade/](https://leetcode.com/phoenixBlade/)
+- 📝 I regularly Practicing code on Leetcode at [here](https://leetcode.com/DeepakVrma/)
 
 - 📫 How to reach me **deepakverma1482003@gmail.com**
 
