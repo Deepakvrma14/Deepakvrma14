@@ -36,4 +36,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakvrma14&theme=dark" alt="deepakvrma14" /></p>
 
 ### ✍️ Random Dev Quote
-[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
