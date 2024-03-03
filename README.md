@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deepakverma1482003@gmail.com**
 
-- 📄 Know about my experiences [CV Link](https://drive.google.com/file/d/10xbUMU8AYmlu_321nSNa3JEE9HhHVAcN/view?usp=sharing)
+- 📄 Know about my experiences [CV Link](https://drive.google.com/file/d/1YCa2kScaJadXTPHhCK6Z8QbZIwtTHz2i/view?usp=drivesdk)
 
 - ⚡ Fun fact **I code with a side of Kurkure/Lays 🍪 – because every great algorithm deserves a flavorful twist! 🌶️👨‍💻**
 
